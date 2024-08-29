@@ -1,0 +1,78 @@
+# Copyright (C) 2024 Charles DELACHAPELLE <cdelachapelle4@gmail.com>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+#
+
+#
+# Générique
+#
+
+# Module label 'ModuleDoliKanbanName'
+ModuleDoliKanbanName = DoliKanban
+
+# Module description 'ModuleDoliKanbanDesc'
+ModuleDoliKanbanDesc      = Comparateur de prix concurrent
+DoliKanbanDescription     = Comparateur de prix concurrent
+DoliKanbanDescriptionLong = Comparateur de prix concurrent
+
+#
+# Page d'administration
+#
+
+Settings        = Réglages
+DoliKanbanSetup     = Configuration du module DoliKanban
+DoliKanbanSetupPage = Page de configuration du module DoliKanban
+
+#
+# Page À propos
+#
+
+About       = À propos
+DoliKanbanAbout = À propos de DoliKanban
+
+#
+# DoliKanban
+#
+
+# Right - Droit
+LireDoliKanban    = Consulter DoliKanban
+ReadDoliKanban    = Consulter DoliKanban (read)
+ReadAdminPage = Accéder à la configuration du module
+
+#
+# DoliKanban - Prix concurrent
+#
+
+# Right - Droit
+ReadDoliKanban   = Consulter les prix concurrents
+CreateDoliKanban = Créer/Modifier les prix concurrents
+DeleteDoliKanban = Supprimer les prix concurrents
+
+# Trigger - Déclencheur
+
+
+# Mod Numbering - Modèle de numérotation
+
+# Data - Donnée
+DoliKanban                     = Prix concurrent
+DoliKanbanHT                   = Prix concurrent HT
+DoliKanbanTTC                  = Prix concurrent TTC
+DoliKanbans                    = Prix concurrents
+AddDoliKanban                  = Ajouter un prix concurrent
+CompetitorDate                      = Date de relève du prix concurrent
+Competitor                          = Concurrent
+ProductPageURL                      = URL page produit
+ConfirmDeleteProductDoliKanban = Confirmer la suppression du prix concurrent
+DeleteProductDoliKanban        = Suppression du prix concurrent
+NewDoliKanban                  = Nouveaux prix concurrent
